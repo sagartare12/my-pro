@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/Kiran Moule/public_html/
+    - /bin/cp * $DEPLOYPATH
+    
