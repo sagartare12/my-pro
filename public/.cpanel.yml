@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/Kiran Moule/public_html/
+    - export DEPLOYPATH=/home/xl7g00v6lqm4/public_html/
     - /bin/cp * $DEPLOYPATH
     
