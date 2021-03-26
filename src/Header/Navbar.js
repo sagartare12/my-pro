@@ -23,7 +23,7 @@ const NavBar = () => {
                                 <NavDropdown.Item href="Pharmacy">Engineering</NavDropdown.Item>
                                 <NavDropdown.Item href="#action/3.3">10th , ITI</NavDropdown.Item>
                                 <NavDropdown.Divider />
-                                <NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item>
+                                <NavDropdown.Item href="#action/3.4">Separated licd ..</NavDropdown.Item>
                             </NavDropdown>
 
                         <Nav.Link href="#">Result</Nav.Link>
