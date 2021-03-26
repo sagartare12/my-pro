@@ -1,5 +1,28 @@
 {
   "files": {
+<<<<<<< HEAD
+    "main.css": "/static/css/main.b39891c5.chunk.css",
+    "main.js": "/static/js/main.aeb76ade.chunk.js",
+    "main.js.map": "/static/js/main.aeb76ade.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1c4f10ca.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1c4f10ca.js.map",
+    "static/css/2.fabbef47.chunk.css": "/static/css/2.fabbef47.chunk.css",
+    "static/js/2.7b5e731a.chunk.js": "/static/js/2.7b5e731a.chunk.js",
+    "static/js/2.7b5e731a.chunk.js.map": "/static/js/2.7b5e731a.chunk.js.map",
+    "static/js/3.258f0428.chunk.js": "/static/js/3.258f0428.chunk.js",
+    "static/js/3.258f0428.chunk.js.map": "/static/js/3.258f0428.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.fabbef47.chunk.css.map": "/static/css/2.fabbef47.chunk.css.map",
+    "static/css/main.b39891c5.chunk.css.map": "/static/css/main.b39891c5.chunk.css.map",
+    "static/js/2.7b5e731a.chunk.js.LICENSE.txt": "/static/js/2.7b5e731a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c4f10ca.js",
+    "static/css/2.fabbef47.chunk.css",
+    "static/js/2.7b5e731a.chunk.js",
+    "static/css/main.b39891c5.chunk.css",
+    "static/js/main.aeb76ade.chunk.js"
+=======
     "main.css": "/static/css/main.e6843eda.chunk.css",
     "main.js": "/static/js/main.fd7fde6c.chunk.js",
     "main.js.map": "/static/js/main.fd7fde6c.chunk.js.map",
@@ -21,5 +44,6 @@
     "static/js/2.c55c15a2.chunk.js",
     "static/css/main.e6843eda.chunk.css",
     "static/js/main.fd7fde6c.chunk.js"
+>>>>>>> 6705da7 (Add pharmacy features along with the other files related to this feature)
   ]
 }
