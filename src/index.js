@@ -4,10 +4,12 @@ import './index.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-
+import { InfoProvider } from './Components/Context'
 ReactDOM.render(
   <React.StrictMode>
+    <InfoProvider>
     <App />
+    </InfoProvider>
   </React.StrictMode>,
   document.getElementById('root')
 );
